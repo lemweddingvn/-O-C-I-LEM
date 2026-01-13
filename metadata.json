@@ -1,0 +1,7 @@
+{
+  "name": "LEM WEDDING AI Studio",
+  "description": "High-end luxury wedding photo studio powered by AI for seamless portrait blending and lighting matching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
